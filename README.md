@@ -4,10 +4,8 @@
 
 
 this website is made with scripts .html .js .node .css
-each page has private .css .js or node .json
-each page is independent with its scripts
 
-If you want this website, you can write to me at https://github.com/Ghepes/
+If you want this htm website, is with MIT License on https://github.com/Ghepes/book-now.git
 
 ## Name
 Book Now
