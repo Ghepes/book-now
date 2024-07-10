@@ -1,0 +1,48 @@
+{
+  "name": "book-now",
+  "version": "1.0.2",
+  "description": "Assists tourists with finding nearby attractions, dining, and emergency services in a friendly tone. This GPT, named Book Now, is specially designed for tourists. It provides vocal or written suggestions for the best cities, destinations, hotels, bars, restaurants, and other places of interest.",
+  "main": "serviceworker.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghepes/book-now.git"
+  },
+  "keywords": [
+    "Assists",
+    "tourists",
+    "finding",
+    "nearby",
+    "attractions",
+    "dining",
+    "emergency",
+    "services",
+    "friendly",
+    "location",
+    "suggest",
+    "ask",
+    "audio",
+    "text",
+    "ai",
+    "gpt",
+    "hotel",
+    "bar",
+    "tourist",
+    "accurate",
+    "information",
+    "providing",
+    "quic",
+    "responding",
+    "vacation",
+    "relevant",
+    "suggestions"
+  ],
+  "author": "Ghepes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghepes/book-now/issues"
+  },
+  "homepage": "https://github.com/ghepes/book-now#readme"
+}

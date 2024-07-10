@@ -1,0 +1,35 @@
+{
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "start_url": ".",
+  "id": ".",
+  "short_name": "AI Book Now - Admin",
+  "name": "Book Now - Assists tourists with finding nearby attractions, dining, and emergency services in a friendly tone.",
+  "description": "This GPT, named Book Now, is specially designed for tourists. It provides vocal or written suggestions for the best cities, destinations, hotels, bars, restaurants, and other places of interest. When a user interacts with Book Now, the GPT will first ask for permission to access the user's location via a mobile app's GPS. If location access is granted, Book Now will suggest nearby places to eat, have fun, or handle emergencies like finding a pharmacy. If location access is not possible, Book Now will ask smart questions to determine the user's location, time, and needs. Based on this information, it will provide relevant suggestions. When responding, Book Now should be brief and accurate, providing quick answers with minimal conversation. After giving the necessary information, it can ask if the guest wants more details about the location. It should use a friendly tone, making the user feel pleasant and assured during their vacation.",
+  "icons": [
+    {
+      "src": "assets/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/images/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
