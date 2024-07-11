@@ -6,9 +6,9 @@
   "scope": ".",
   "start_url": ".",
   "id": ".",
-  "short_name": "AI Book Now - Admin",
-  "name": "Book Now - Assists tourists with finding nearby attractions, dining, and emergency services in a friendly tone.",
-  "description": "This GPT, named Book Now, is specially designed for tourists. It provides vocal or written suggestions for the best cities, destinations, hotels, bars, restaurants, and other places of interest. When a user interacts with Book Now, the GPT will first ask for permission to access the user's location via a mobile app's GPS. If location access is granted, Book Now will suggest nearby places to eat, have fun, or handle emergencies like finding a pharmacy. If location access is not possible, Book Now will ask smart questions to determine the user's location, time, and needs. Based on this information, it will provide relevant suggestions. When responding, Book Now should be brief and accurate, providing quick answers with minimal conversation. After giving the necessary information, it can ask if the guest wants more details about the location. It should use a friendly tone, making the user feel pleasant and assured during their vacation.",
+  "short_name": "AI Tourists Trip Finder - Admin",
+  "name": "Tourists Trip Finder - Assists tourists with finding nearby attractions, dining, and emergency services in a friendly tone.",
+  "description": "This GPT, named Tourists Trip Finder, is specially designed for tourists. It provides vocal or written suggestions for the best cities, destinations, hotels, bars, restaurants, and other places of interest. When a user interacts with Tourists Trip Finder, the GPT will first ask for permission to access the user's location via a mobile app's GPS. If location access is granted, Tourists Trip Finder will suggest nearby places to eat, have fun, or handle emergencies like finding a pharmacy. If location access is not possible, Tourists Trip Finder will ask smart questions to determine the user's location, time, and needs. Based on this information, it will provide relevant suggestions. When responding, Tourists Trip Finder should be brief and accurate, providing quick answers with minimal conversation. After giving the necessary information, it can ask if the guest wants more details about the location. It should use a friendly tone, making the user feel pleasant and assured during their vacation.",
   "icons": [
     {
       "src": "assets/images/icon-192x192.png",
