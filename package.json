@@ -1,6 +1,6 @@
 {
   "name": "book-now",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Assists tourists with finding nearby attractions, dining, and emergency services in a friendly tone. This GPT, named Book Now, is specially designed for tourists. It provides vocal or written suggestions for the best cities, destinations, hotels, bars, restaurants, and other places of interest.",
   "main": "serviceworker.js",
   "scripts": {
