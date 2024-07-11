@@ -1,6 +1,6 @@
 # wromo-template
 
- Template modeled on the following page: https://chatgpt.com/g/g-N6b6kOOM4-book-now
+ Template modeled on the following page: https://chatgpt.com/g/g-N6b6kOOM4-trip-finder
 
 
 this website is made with scripts .html .js .node .css
